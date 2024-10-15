@@ -1,3 +1,4 @@
+<a href="[DAISY](https://medien.hs-duesseldorf.de/studium/studiengaenge/bdaisy/)"><img src="https://img.shields.io/badge/DAISY_class_2024!-crimson.svg?style=plastic"/></a>
 # ASCII Dojo (DAISY 2024)
 
 ## "Master the art of code, one character at a time."
